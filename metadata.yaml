@@ -1,0 +1,31 @@
+_repo: The-Dispatch-Carrier-and-Memoirs-of-Andersonville-Prison_40046
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40046-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tyler, William N. (William Nelson)
+    birthdate: 1838
+    deathdate: 1910
+    gutenberg_agent_id: '40390'
+    url: http://www.gutenberg.org/2009/agents/40390
+description: ''
+gutenberg_issued: '2012-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Tyler, William N. (William Nelson), 1838-1910'
+- !lcsh 'Prisoners of war -- United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Andersonville Prison'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons'
+- !lcsh 'Soldiers -- Illinois -- Biography'
+title: The Dispatch Carrier and Memoirs of Andersonville Prison
+url: http://www.gutenberg.org/ebooks/40046
